@@ -1,6 +1,2 @@
 
 website:w.google.comww;password:AKEPASSAF
-website:w.youtube.comww;password:AKEPASSAF
-website:w.spotifyww;password:AKEPASSAF
-website:w.news.comww;password:asswordaP
-website:w.helllo.comww;password:asswordaP
